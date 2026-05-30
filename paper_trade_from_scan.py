@@ -8,7 +8,7 @@ import subprocess
 import sys
 import time as time_module
 from dataclasses import dataclass
-from datetime import datetime, time, timedelta, timezone
+from datetime import datetime, time, timedelta
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from typing import Iterable, List, Optional, Sequence, Tuple
